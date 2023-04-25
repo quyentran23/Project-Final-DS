@@ -1,0 +1,61 @@
+﻿Mã chủ đề,Đánh giá,Ý kiến
+CSVC,1,Cơ sở vật chất tại trường rất đầy đủ từ các phòng học đến các phòng thí nghiệm và thư viện.
+CSVC,1,"Các tòa nhà trường được thiết kế hợp lý và tiện nghi, giúp cho sinh viên dễ dàng đi lại và sử dụng các dịch vụ trong trường."
+CSVC,1,"Trường còn có nhiều khuôn viên rộng lớn với nhiều cây xanh, tạo không gian học tập thân thiện và thoải mái."
+CSVC,1,Đội ngũ bảo trì và quản lý cơ sở vật chất của trường rất chuyên nghiệp và tận tâm.
+CSVC,0,"Thư viện đáp ứng được các nhu cầu cơ bản, nhưng cần cải thiện sự hiện đại."
+CSVC,0,Thang máy hoạt động ổn nhưng cần tăng sức chứa và tốc độ di chuyển.
+CSVC,0,Đội ngũ bảo trì đã làm tốt nhưng cần nâng cao chuyên môn.
+CSVC,0,Các phòng nghiên cứu hiện đại nhưng cần phát huy thêm tính khả dụng cho sinh viên.
+CSVC,-1,Một số tòa nhà có hệ thống internet không ổn định.
+CSVC,-1,"Một số phòng máy tính hoạt động chậm,bị lag, ứng dụng lỗi."
+CSVC,-1,Hầm giữ xe nhỏ và có mùi khó chịu.
+CSVC,-1,"Thang máy thường xuyên bị hỏng, hay có tiếng ồn khi vận hành"
+GV,1,Rất nhiệt tình và truyền cảm hứng cho sinh viên.
+GV,1,Giảng viên có kiến thức sâu rộng và luôn cập nhật những thông tin mới nhất trong lĩnh vực của mình.
+GV,1,Tâm huyết với công việc của mình và luôn sẵn sàng giúp đỡ sinh viên khi cần.
+GV,1,Giảng viên tạo ra môi trường học tập thoải mái và tích cực cho sinh viên.
+GV,0,Một số giảng viên có chuyên môn cao nhưng cách truyền đạt chưa hiệu quả.
+GV,0,Giảng viên dạy đạt yêu cầu nhưng cần tạo không gian vui vẻ để sinh viên dễ tiếp thu.
+GV,0,Một số giảng viên chuẩn bị tốt bài giảng nhưng cần đến dạy đúng giờ hơn.
+GV,0,Giảng viên giải đáp thắc mắc cho sinh viên nhưng còn hời hợt
+GV,-1,Một số giảng viên chuẩn bị không đủ bài giảng.
+GV,-1,"Giảng viên quá khắt khe, yêu cầu quá cao khiến sinh viên áp lực."
+GV,-1,"Giảng viên nói lan man quá nhiều, không tập trung vào chuyên môn."
+GV,-1,Một số giảng viên không giải đáp thắc mắc cho sinh viên.
+CTDT,1,Chương trình đào tạo hợp lý và đáp ứng tốt nhu cầu của sinh viên.
+CTDT,1,Chương trình đào tạo giúp sinh viên phát triển khả năng tối đa.
+CTDT,1,Chương trình đào tạo linh hoạt và cập nhật liên tục để đáp ứng thị trường lao động.
+CTDT,1,"Chương trình đào tạo có sự tham gia đóng góp của các chuyên gia và doanh nghiệp, giúp sinh viên có kiến thức thực tiễn."
+CTDT,0,Chương trình đạo tạo có chuyên môn cao nhưng cần sắp xếp dàn trải để sinh viên dễ tiêp thu.
+CTDT,0,"Chương trình đào tạo linh hoạt, tuy nhiên cần bám sát vào các yêu cầu của nhà tuyển dụng."
+CTDT,0,"Có chất lượng tốt nhưng cần tăng thêm số tiết thực hành, để sinh viên được thực hành hơn lý thuyết"
+CTDT,0,Chương trình đào tạo đầy đủ tuy nhiên có thể cắt giảm một số môn học không cần thiết đến ngành.
+CTDT,-1,Chương trình đào tạo thiếu tính ứng dụng thực tế.
+CTDT,-1,Không đáp ứng được nhu cầu của sinh viên trong một số lĩnh vực.
+CTDT,-1,Quá lý thuyết và ít thực hành.
+CTDT,-1,Chương trình đào tạo không bám sát chuyên ngành.
+CTSV,1,Công tác sinh viên đa dạng và hỗ trợ tốt.
+CTSV,1,Công tác sinh viên đồng hành và giúp sinh viên rèn luyện kỹ năng.
+CTSV,1,Tạo cơ hội tham gia tình nguyện và kết nối với doanh nghiệp.
+CTSV,1,Công tác sinh viên giúp sinh viên trở thành công dân toàn cầu.
+CTSV,0,Công tác sinh viên chuyên nghiệp nhưng cần nâng cao tính đa dạng.
+CTSV,0,Công tác sinh viên tốt tuy nhiên cần hoạt động có hiệu quả hơn.
+CTSV,0,Về học tập khá tốt nhưng cần phát triển về mặt kỹ năng mềm cho sinh viên.
+CTSV,0,Công tác sinh viên chất lượng cao tuy nhiên cần lan tỏa rộng đến toàn bộ sinh viên
+CTSV,-1,Công tác sinh viên thiếu đa dạng và không thu hút đủ sự quan tâm.
+CTSV,-1,Công tác sinh viên không đáp ứng đầy đủ nhu cầu của sinh viên.
+CTSV,-1,Công tác sinh viên chưa đạt hiệu quả như mong đợi.
+CTSV,-1,Công tác sinh viên thiếu tính chuyên nghiệp và thiếu động lực.
+TVTS,1,"Tư vấn tuyển sinh nhiệt tình, giúp tôi có đầy đủ thông tin và lựa chọn ngành học phù hợp."
+TVTS,1,Nhân viên tư vấn tuyển sinh tận tình và hỗ trợ tốt.
+TVTS,1,Tư vấn tuyển sinh đáp ứng nhu cầu và giải đáp thắc mắc của sinh viên.
+TVTS,1,Thông tin về tuyển sinh rõ ràng và minh bạch.
+TVTS,0,Có tư vấn cho từng sinh viên chưa đầy đủ thông tin và hướng dẫn kỹ.
+TVTS,0,Cách thức tư vấn tuyển sinh chưa đáp ứng nhu cầu của sinh viên.
+TVTS,0,Thông tin về tuyển sinh chưa được cập nhật đầy đủ.
+TVTS,0,Nhân viên tư vấn tuyển sinh không chuyên nghiệp và chưa có kiến thức sâu về ngành học.
+TVTS,-1,Thông tin tuyển sinh được cập nhật nhưng không rõ ràng.
+TVTS,-1,Tư vấn tuyển sinh rõ ràng nhưng thiếu sự nhiệt tình.
+TVTS,-1,Tinh thần tư vấn tốt nhưng các thông tin tư vấn còn thiếu sót.
+TVTS,-1,Thông tin tuyển sinh được truyền tải đầy đủ tuy nhiên chưa được cụ thể và chuyên sâu.
